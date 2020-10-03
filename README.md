@@ -1,8 +1,8 @@
 # ShoppingApp
 
-An e-commerce/retail shopping that resembles the likes of H&M, Express, Abercrombie & Fitch. Browse items, add them to the shopping bag and remove them.
+An e-commerce/retail shopping that resembles the likes of H&M, Express, and Abercrombie & Fitch. Browse items, add them to the shopping bag and remove them.
 
-Future releases: Item filters (Men and Women items), enter coupon codes for discounts.
+Future release: Item filters (Men and Women items), enter coupon codes for discounts.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
