@@ -1,0 +1,8 @@
+::ng-deep .mat-dialog-container {
+    overflow-y: hidden;
+    border: 1px solid black;
+}
+
+p.added-to-bag{
+    font-size: 13px;
+}

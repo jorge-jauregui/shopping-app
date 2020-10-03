@@ -1,0 +1,26 @@
+<!-- <app-current-promotion></app-current-promotion> -->
+
+<!--*ngFor lets us iterate through array the array of objects in items.ts(imported in this component)-->
+<!--I also assign each index in the items.ts array to the 'productId' when iterating over the array-->
+<div class="container-fluid text-center">
+
+    <div class="row justify-content-center">
+        <div *ngFor="let item of items; index as itemId" class="card" style="width: 16rem;">
+            <!--Property binding on [title] to grab values from items.ts (imported in item-list.ts component) -->
+                <img 
+                    [title]="item.name" 
+                    class="card-img-top" 
+                    src="{{item.imagePath1}}" 
+                    alt="{{item.name}}" 
+                    [routerLink]="['/items', itemId]"
+                    (mouseover)="item.imagePath1 = item.imagePath2"
+                    (mouseout)="item.imagePath1 = item.imagePath3"
+                    >
+                <div class="card-body">
+                    <p class="item-name" [routerLink]="['/items', itemId]">{{ item.name }}</p>
+                    <p class="item-price">{{ item.price | currency }}</p>
+                </div>
+        </div> 
+    </div>
+
+</div>

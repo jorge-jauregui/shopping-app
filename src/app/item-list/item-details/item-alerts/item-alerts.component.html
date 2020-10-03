@@ -1,0 +1,5 @@
+<div class="col" *ngIf="item.amtInStock === 0">
+    <p>This item is not in stock. You can be notified once it is available.</p>
+    <button class="notify-instock" (click)="notifyAlertModal()">Notify Me</button>    
+</div>
+

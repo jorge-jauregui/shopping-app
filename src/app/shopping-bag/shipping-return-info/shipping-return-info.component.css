@@ -1,0 +1,21 @@
+
+div.container{
+    padding-top: 40px;
+}
+div.row{
+    padding-left: 10px;
+}
+h1{
+    font-size: 16px;
+}
+p{
+    font-size: 12px;
+    line-height: 80%;
+}
+div.images{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+img{
+    padding-right: 5px;
+}

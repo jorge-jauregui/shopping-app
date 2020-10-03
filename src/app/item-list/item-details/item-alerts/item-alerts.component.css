@@ -1,0 +1,15 @@
+button.notify-instock {
+    color: white;
+    background-color: #202020;
+    padding: 10px 20px 10px 20px;
+    border-radius: none;
+    border: none;
+    margin-bottom: 50px;
+
+}
+button.notify-instock:hover{
+    background-color: #3a3a3a;
+}
+button.notify-instock:focus {
+    outline: none;
+}

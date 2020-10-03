@@ -1,0 +1,16 @@
+div.notify-details {
+    font-size: 14px;
+}
+button.dialog-close{
+    color: white;
+    background-color: #202020;
+    padding: 10px 20px 10px 20px;
+    border-radius: none;
+    border: none;
+}
+button.dialog-close:hover{
+    background-color: #3a3a3a;
+}
+button.dialog-close:focus{
+    outline: none;
+}

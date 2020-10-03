@@ -1,0 +1,26 @@
+<div *ngIf="item" class="container">
+    <div class="row">
+        <div class="col-md-6 left-col">
+            <img class="itemImg1" src="{{ item.imagePath1 }}" alt="{{item.name}}">
+            <img class="itemImg2" src="{{ item.imagePath3 }}" alt="{{item.name}}">
+            <div class="row item-description">
+                <p>{{ item.description }}</p>
+            </div>
+        </div>
+        <div class="col-md-6 right-col">
+            <p class="item-name">{{ item.name }}</p>
+            <p class="item-price">{{ item.price | currency }}</p> <!--See pipes-->
+            <p class="item-color">{{ item.color }}</p>
+            <img class="item-color" src="{{ item.imagePath1 }}" alt="{{item.name}}" style="width: 4rem;">
+
+            <div class="row" *ngIf="item.amtInStock > 0" >
+                <button class="add-button" (click)="addToBag(item); calculateCost(); addToBagModal();">Add to Bag</button>
+            </div> 
+            <div class="row">
+                <app-item-alerts [item]="item"></app-item-alerts>
+            </div>
+        </div>
+
+    </div>
+</div>
+

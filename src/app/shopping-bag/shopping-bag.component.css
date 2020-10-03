@@ -1,0 +1,124 @@
+div.empty-bag{
+    margin-top: 50px;
+    font-weight: bolder;
+    font-size: 25px;
+}
+button.browse-items{
+    margin-left: 5px;
+    color: black;
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+    border-radius: none;
+    border: 1px solid black;
+    font-size: 13px;
+}
+button.browse-items:hover{
+    opacity: 0.7;
+}
+button.browse-items:focus{
+    outline: none;
+}
+div.labels{
+    font-size: 13px;
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    padding-top: 10px;
+    margin-right: 5px;
+}
+div.product-card {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid lightgray;
+    margin-right: 5px;
+}
+div.bag-list{
+    border-right: 1px solid lightgray;
+}
+div.product-details {
+    padding-top: 10px;
+}
+div.detail-list{
+    line-height: 0.2;
+    font-size: 14px;
+}
+a.remove-item {
+    font-size: 12px;
+    text-decoration: underline;
+    color: gray;
+    cursor: pointer;
+}
+a.remove-item:hover{
+    color: black;
+}
+
+/*
+2nd COLUMN
+*/
+div.discount-header{
+    margin-top: 20px;
+}
+div.discount{
+    margin-left: 5px;
+}
+input#discountCode{
+    border: 1px solid lightgray;
+}
+input#discountCode:focus{
+    outline: none;
+}
+button.add-discount-btn{
+    margin-left: 5px;
+    color: black;
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+    border-radius: none;
+    border: 1px solid black;
+    font-size: 13px;
+}
+button.add-discount-btn:hover{
+    opacity: 0.7;
+}
+button.add-discount-btn:focus{
+    outline: none;
+}
+p.discount-applied {
+    margin-top: 5px;
+    margin-left: 20px;
+    font-size: 12px;
+    color: #004b00;
+}
+div.prices{
+    margin-top: 15px;
+    font-size: 14px;
+}
+div.total{
+    font-weight: bolder;
+    background-color: #F6F6F6;
+}
+button.checkout {
+    margin-top: 20px;
+    color: white;
+    background-color: #202020;
+    padding: 15px 30px 15px 30px;
+    border-radius: none;
+    border: none;
+}
+button.checkout:hover{
+    background-color: #3a3a3a;
+}
+button.checkout:focus{
+    outline: none;
+}
+
+img.item-image{
+    width: 80px;
+}
+
+@media only screen and (max-width: 548px) {
+    img.item-image{
+        width: 50px;
+    }
+}
+
+
+

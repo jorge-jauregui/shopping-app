@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+div.container {
+    font-family: 'Lato', sans-serif;
+}
+
+/*
+COLUMN 1
+*/
+div.left-col {
+    padding-top: 50px;
+}
+img.itemImg1 {
+    padding-right: 5px;
+}
+img.itemImg1, img.itemImg2 {
+    height: 20rem;
+}
+
+div.item-description {
+    /* border: 1px solid lightgray;
+    background-color: #EDEDED; */
+    font-family: 'Playfair Display', serif;
+    margin-top: 5px;
+}
+
+
+/*
+COLUMN 2
+*/
+div.right-col {
+    padding-top: 50px;
+}
+p.item-name, p.item-price {
+    font-size: 22px;
+}
+p.item-color{
+    font-size: 12px;
+}
+button.add-button {
+    margin-top: 20px;
+    color: white;
+    background-color: #202020;
+    padding: 15px 30px 15px 30px;
+    border-radius: none;
+    border: none;
+    margin-bottom: 50px;
+}
+button.add-button:hover{
+    background-color: #3a3a3a;
+}
+button.add-button:focus{
+    outline: none;
+}
+
+@media only screen and (max-width: 548px) {
+    img.itemImg1 {
+        display: none;
+    } 
+}
