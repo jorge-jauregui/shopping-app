@@ -1,6 +1,6 @@
-# ShoppingApp
+# Shopping App
 
-An e-commerce/retail shopping that resembles the likes of H&M, Express, and Abercrombie & Fitch. Browse items, add them to the shopping bag and remove them.
+An e-commerce/retail shopping app that resembles the likes of H&M, Express, and Abercrombie & Fitch. Browse items, add them to the shopping bag and remove them.
 
 Future release: Item filters (Men and Women items), enter coupon codes for discounts.
 
