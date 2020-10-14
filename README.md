@@ -13,16 +13,16 @@ Live version of application: https://shopping-app-5f1fe.web.app/
 ![1](https://user-images.githubusercontent.com/62124046/96042892-fc546b80-0e22-11eb-9309-c6a7f76ab724.png)
 Item list view
 
-![2](https://user-images.githubusercontent.com/62124046/96042578-759f8e80-0e22-11eb-97d2-ce73669d610e.png)
+![2](https://user-images.githubusercontent.com/62124046/96043027-332a8180-0e23-11eb-96c2-a4c8279d1970.png)
 Item detail view
 
-![3](https://user-images.githubusercontent.com/62124046/96042630-89e38b80-0e22-11eb-9303-3a581eb350b4.png)
+![3](https://user-images.githubusercontent.com/62124046/96043030-358cdb80-0e23-11eb-8c16-b8bace10207b.png)
 Shopping bag with one item
 
-![4](https://user-images.githubusercontent.com/62124046/96042675-9c5dc500-0e22-11eb-85b1-49b80ccf53d9.png)
+![4](https://user-images.githubusercontent.com/62124046/96043034-36257200-0e23-11eb-9832-4484f6e9ef34.png)
 Empty shopping bag after removing item(s)
 
-![5](https://user-images.githubusercontent.com/62124046/96042700-ac75a480-0e22-11eb-9749-cc75e87dace5.png)
+![5](https://user-images.githubusercontent.com/62124046/96043035-36257200-0e23-11eb-9cca-271c6470a6e4.png)
 Some items are "out of stock"
 
 ## Development server
