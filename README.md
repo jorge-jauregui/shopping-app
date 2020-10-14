@@ -11,19 +11,19 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Live version of application: https://shopping-app-5f1fe.web.app/
 
 ![1](https://user-images.githubusercontent.com/62124046/96042892-fc546b80-0e22-11eb-9309-c6a7f76ab724.png)
-Item list view
+### Item list view
 
 ![2](https://user-images.githubusercontent.com/62124046/96043027-332a8180-0e23-11eb-96c2-a4c8279d1970.png)
-Item detail view
+### Item detail view
 
 ![3](https://user-images.githubusercontent.com/62124046/96043030-358cdb80-0e23-11eb-8c16-b8bace10207b.png)
-Shopping bag with one item
+### Shopping bag with one item
 
 ![4](https://user-images.githubusercontent.com/62124046/96043034-36257200-0e23-11eb-9832-4484f6e9ef34.png)
-Empty shopping bag after removing item(s)
+### Empty shopping bag after removing item(s)
 
 ![5](https://user-images.githubusercontent.com/62124046/96043035-36257200-0e23-11eb-9cca-271c6470a6e4.png)
-Some items are "out of stock"
+### Some items are "out of stock"
 
 ## Development server
 
