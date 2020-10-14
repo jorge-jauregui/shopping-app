@@ -16,8 +16,8 @@ Live version of application: https://shopping-app-5f1fe.web.app/
 ### Item detail view
 ![2](https://user-images.githubusercontent.com/62124046/96043027-332a8180-0e23-11eb-96c2-a4c8279d1970.png)
 
-### Shopping bag with one item
-![3](https://user-images.githubusercontent.com/62124046/96043030-358cdb80-0e23-11eb-8c16-b8bace10207b.png)
+### Shopping bag with three items
+![3](https://user-images.githubusercontent.com/62124046/96057782-8fe76580-0e3e-11eb-9cb6-9281030211fe.png)
 
 ### Empty shopping bag after removing item(s)
 ![4](https://user-images.githubusercontent.com/62124046/96043034-36257200-0e23-11eb-9832-4484f6e9ef34.png)
