@@ -10,7 +10,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Live version of application: https://shopping-app-5f1fe.web.app/
 
-![1](https://user-images.githubusercontent.com/62124046/96042485-51dc4880-0e22-11eb-980c-36509256f76d.png)
+![1](https://user-images.githubusercontent.com/62124046/96042892-fc546b80-0e22-11eb-9309-c6a7f76ab724.png)
 Item list view
 
 ![2](https://user-images.githubusercontent.com/62124046/96042578-759f8e80-0e22-11eb-97d2-ce73669d610e.png)
