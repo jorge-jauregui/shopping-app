@@ -6,7 +6,7 @@ Future release: Item filters (Men and Women items), enter coupon codes for disco
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
-## Overview 
+# Overview 
 
 Live version of application: https://shopping-app-5f1fe.web.app/
 
